@@ -1,2 +1,5 @@
 Public class Primeiro
 login()
+
+TeladeLogin()
+Validaco()
